@@ -1,3 +1,6 @@
+![image](https://github.com/BhanuPShahi/Airbnb-Bookings-Analysis/assets/54613691/a33afd89-1d65-40cc-a6ff-627734651a7f)
+
+
 # Airbnb-Bookings-Analysis
 Analyzing the data of airbnb booking and analyzing the trends and making some predictions...
 
